@@ -1,0 +1,3 @@
+[submodule "snake-game-js"]
+	path = snake-game-js
+	url = https://github.com/trindadegm/snake-game-js
